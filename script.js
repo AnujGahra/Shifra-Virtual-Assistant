@@ -2,6 +2,7 @@ let btn = document.querySelector("#btn");
 let content = document.querySelector("#content");
 let voice = document.querySelector("#voice");
 
+// speak function
 function speak(text) {
   let text_speak = new SpeechSynthesisUtterance(text);
   text_speak.rate = 1;
