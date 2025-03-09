@@ -8,7 +8,7 @@ Shifra is a **virtual assistant** built using **JavaScript, HTML, and CSS**. It 
 - 🔊 **Text-to-speech** responses
 - 🌐 **Supports multiple commands**, such as:
   - Open Google, YouTube, LinkedIn, Facebook, Instagram, Twitter, etc.
-- 🎨 **Modern UI
+- 🎨 **Modern UI**
 
 ## 📸 Preview
 
