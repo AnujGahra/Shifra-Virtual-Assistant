@@ -8,8 +8,7 @@ Shifra is a **virtual assistant** built using **JavaScript, HTML, and CSS**. It 
 - 🔊 **Text-to-speech** responses
 - 🌐 **Supports multiple commands**, such as:
   - Open Google, YouTube, LinkedIn, Facebook, Instagram, Twitter, etc.
-- 🎨 **Modern UI with dark mode**
-- 🕹️ **3D animated grid background with a moving zigzag line**
+- 🎨 **Modern UI
 
 ## 📸 Preview
 
@@ -44,5 +43,5 @@ Feel free to **fork** this repository, improve it, and submit a **pull request**
 
 ---
 ### 🔗 Connect with Me
-- GitHub: [YourGitHubProfile](https://github.com/anujgahra)
-- LinkedIn: [YourLinkedInProfile](https://linkedin.com/in/anujgahra)
+- GitHub: [GitHubProfile](https://github.com/anujgahra)
+- LinkedIn: [LinkedInProfile](https://linkedin.com/in/anujgahra)
