@@ -18,7 +18,7 @@ Shifra is a **virtual assistant** built using **JavaScript, HTML, and CSS**. It 
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/anujgahra/shifra-virtual-assistant.git
+   git clone https://github.com/AnujGahra/Shifra-Virtual-Assistant
    ```
 2. **Open `index.html` in your browser.**
 3. Click on the microphone button 🎤 and start speaking commands.
